@@ -1,8 +1,8 @@
-Origin: Reposi3
-Label: Reposi3
+Origin: exnrepo
+Label: E X N F O R E V E R R E P O
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Reposi3 - a cydia repo template
+Description: exnfox's cydia repo
